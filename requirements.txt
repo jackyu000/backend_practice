@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+sentence-transformers
+numpy
+pydantic
